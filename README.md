@@ -1,5 +1,5 @@
 # DynamicReLU
-Implementation of [Dynamic ReLU(types A,B)](https://arxiv.org/abs/2003.10027) on Pytorch.
+Implementation of [Dynamic ReLU(types A,B,C)](https://arxiv.org/abs/2003.10027) on Pytorch.
 
 ## Example
 ```
